@@ -1,0 +1,6 @@
+attr_name: STREET DIRECTION
+value_num: 4
+S: 683917
+W: 500418
+N: 395246
+E: 98207
