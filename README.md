@@ -10,7 +10,7 @@
 Wine Reviews
 Chicago Building Violations
 notes：You need to download the required data sets yourself.
-	The result file will not be uploaded.
+	The result file you will see in the other branch(master)
 ```
 
 ## 运行环境及依赖
